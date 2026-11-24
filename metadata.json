@@ -1,0 +1,6 @@
+{
+  "name": "LavenderTask",
+  "description": "A modern full-stack to-do list and task management workspace with PostgreSQL persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
